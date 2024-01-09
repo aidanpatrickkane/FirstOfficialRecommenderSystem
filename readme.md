@@ -1,1 +1,1 @@
-Haven't decided what recsys gonna be yet, just finish step 1 of CC project (let's gooo we're movin')
+Decided on Ted Talk RecSys. Will be using Kaggle dataset to recommend TED Talks based on user preferences.
